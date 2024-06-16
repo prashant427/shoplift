@@ -2,7 +2,7 @@ import React from 'react'
 import Promo from './Promo'
 import Collection from './Collection'
 import Costom_design from "./Costom design";
-import Footer from './Footer'
+
 import './css/home.css'
 
 
